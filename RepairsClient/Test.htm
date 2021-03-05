@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JS/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#btn").click(function () {
+//                alert("ok");
+                var userID = $("#userId").val();
+                var friID = $("#friId").val();
+                alert(userID + friID);
+                $.getJSON(
+            "Test.ashx",
+            "userId=" + userID + "&friId=" + friID,
+            function (msg) {
+                if (msg = "1") {
+                    window.location.href = "chact.ashx";
+                }
+                else {
+                    alert("defalt");
+                }
+            }
+            );
+            }
+        );
+        });
+    </script>
+</head>
+<body>
+    <input type="text" name="userId" id="userId" value="" />
+     <input type="text" name="friId" id="friId" value="" />
+    <button id="btn">确定</button>
+</body>
+</html>

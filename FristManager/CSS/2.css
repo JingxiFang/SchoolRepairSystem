@@ -1,0 +1,53 @@
+@charset "utf-8";
+.h2 {
+	background-color: #39F;
+}
+.hh6 {
+	border-top-color: #666;
+	border-right-color: #666;
+	border-bottom-color: #666;
+	border-left-color: #666;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+}
+
+.hh1 {
+	font-family: "微软雅黑";
+	font-size: 18px;
+}
+.hh3 {
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+}
+.hh4 {
+	color: #000;
+}
+.hh5 {
+	font-size: 36px;
+	color: #000;
+	font-family: "微软雅黑";
+}
+.hh7 {
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+.xiugai1 {
+	background-color: #666;
+}
+.xiugai2 {
+	background-color: #FFF;
+}
+.hh8 {
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}

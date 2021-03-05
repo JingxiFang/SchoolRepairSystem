@@ -1,0 +1,14 @@
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientDal.dll
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientDal.pdb
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientModel.dll
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientModel.pdb
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\RepairsClientDal\obj\Debug\RepairsClientDal.csprojResolveAssemblyReference.cache
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\RepairsClientDal\obj\Debug\RepairsClientDal.dll
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\RepairsClientDal\obj\Debug\RepairsClientDal.pdb
+C:\Users\王琦\Desktop\RepairSystem\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientDal.dll
+C:\Users\王琦\Desktop\RepairSystem\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientDal.pdb
+C:\Users\王琦\Desktop\RepairSystem\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientModel.dll
+C:\Users\王琦\Desktop\RepairSystem\RepairSystem\RepairsClientDal\bin\Debug\RepairsClientModel.pdb
+C:\Users\王琦\Desktop\RepairSystem\RepairSystem\RepairsClientDal\obj\Debug\RepairsClientDal.csprojResolveAssemblyReference.cache
+C:\Users\王琦\Desktop\RepairSystem\RepairSystem\RepairsClientDal\obj\Debug\RepairsClientDal.dll
+C:\Users\王琦\Desktop\RepairSystem\RepairSystem\RepairsClientDal\obj\Debug\RepairsClientDal.pdb

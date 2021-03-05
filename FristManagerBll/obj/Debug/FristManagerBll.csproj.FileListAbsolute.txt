@@ -1,0 +1,9 @@
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\bin\Debug\FristManagerBll.dll
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\bin\Debug\FristManagerBll.pdb
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\bin\Debug\FristManagerDal.dll
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\bin\Debug\FristmanagerModel.dll
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\bin\Debug\FristManagerDal.pdb
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\bin\Debug\FristmanagerModel.pdb
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\obj\Debug\FristManagerBll.csprojResolveAssemblyReference.cache
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\obj\Debug\FristManagerBll.dll
+E:\小组\小组练习文件夹\练习\Asp.net\RepairSystem\FristManagerBll\obj\Debug\FristManagerBll.pdb

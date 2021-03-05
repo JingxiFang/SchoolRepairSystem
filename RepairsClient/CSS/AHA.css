@@ -1,0 +1,76 @@
+﻿body, button, input, select, textarea, h1, h2, h3, h4, h5, h6
+{
+    font-family: Microsoft YaHei, '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53" , sans-serif;
+}
+body
+{
+}
+.OnBottom
+{
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	background: #fff;
+	border-radius: 3px;
+	width: 100%;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+.OnTop
+{
+	position: fixed;
+	top: 0;
+	text-align: center;
+	background: #fff;
+	border-radius: 3px;
+	width: 100%;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+.a_daohang
+{
+    height: 70px;
+    font-size: 30px;
+}
+.a_liaotian_btn
+{
+    width: 500px;
+    height: 70px;
+}
+.nav-pills>li{
+	width: 33%;
+}
+.EvaluateBtn
+{
+    width:200px;
+    height:80px
+    }
+#divMsg i /*时间*/
+    {
+		color:gray;
+		font-style:normal;
+		text-decoration:none;
+    }
+    #divMsg b /*用户*/
+    {
+		color:blue;
+		font-weight:normal;
+		text-decoration:none;
+    }
+    #divMsg span /*公共内容*/
+    {
+		color:black;
+    }    
+    #divMsg .spanMe /*我说的话*/
+    {
+		color:green;
+    }
+    #divMsg .spanToMe /*对我说的话*/
+    {
+		color:red;
+    }
